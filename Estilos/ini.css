@@ -1,0 +1,39 @@
+#h1{
+    text-align: center; 
+    font-family:monospace;
+    color: cadetblue;    
+}
+#qes{
+    text-align: justify;
+    font-size: 110%;
+    font-family: sans-serif;
+}
+#hist{
+    text-align: justify;
+    font-size: 110%;
+    font-family: sans-serif;
+}
+
+.subt{
+    font-family:monospace;
+    text-align: center;
+    color:darkseagreen;
+    font-size: 175%;
+}
+#img{
+    float: right;
+    padding: 6px;
+    margin: 6ppx;
+    width: 120px;
+    clear: both;
+}
+#img2{
+    float: left;
+    padding: 6px;
+    margin: 6px;
+    width: 120px;
+    
+}
+#pie{
+    color:forestgreen;
+}

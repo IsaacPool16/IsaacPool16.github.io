@@ -1,0 +1,17 @@
+#h1{
+    text-align: center; 
+    font-family:monospace;
+    color: cadetblue;    
+}
+.subt{
+    font-family:monospace;
+    text-align: center;
+    color:darkseagreen;
+    font-size: 175%;
+}
+.info{
+    text-align: justify;
+    font-size: 110%;
+    font-family: sans-serif;
+    border: 2px darkgrey solid;
+}
